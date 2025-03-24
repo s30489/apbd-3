@@ -1,0 +1,15 @@
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\bin\Debug\net9.0\apbd.exe
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\bin\Debug\net9.0\apbd.deps.json
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\bin\Debug\net9.0\apbd.runtimeconfig.json
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\bin\Debug\net9.0\apbd.dll
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\bin\Debug\net9.0\apbd.pdb
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.AssemblyInfoInputs.cache
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.AssemblyInfo.cs
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.csproj.CoreCompileInputs.cache
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.sourcelink.json
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.dll
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\refint\apbd.dll
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.pdb
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\apbd.genruntimeconfig.cache
+D:\STUDIA\SEM 4\APBD\Cwiczenia3\apbd\apbd\obj\Debug\net9.0\ref\apbd.dll
